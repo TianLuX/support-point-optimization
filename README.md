@@ -1,3 +1,7 @@
 # support-point-optimization
 选择支撑点计算重建坐标间的切比雪夫距离和，使用MPI进行优化
-hello world
+original中为源代码和数据
+recurrenceV1为递归第一个版本，全过程都在递归中实现
+recurrenceV2为递归第一个版本，部分过程都在递归中实现
+uncurrence为非递归版本
+三个版本MPI通讯功能的实现是相同的
