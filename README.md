@@ -3,5 +3,5 @@
 original中为源代码和数据
 recurrenceV1为递归第一个版本，全过程都在递归中实现
 recurrenceV2为递归第一个版本，部分过程都在递归中实现
-uncurrence为非递归版本
+uncurrence为非递归版本。
 三个版本MPI通讯功能的实现是相同的
